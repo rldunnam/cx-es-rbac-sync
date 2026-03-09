@@ -5,6 +5,7 @@
 .env.development
 .env.production
 .env.test
+.env.*
 
 # Python environment
 venv/
