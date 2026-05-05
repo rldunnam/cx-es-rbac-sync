@@ -37,7 +37,7 @@ ROLE_CONFIG = {
             "privileges": ["read", "read_cross_cluster"],
             "query": {
                 "term": {
-                    "saltminer.asset.attribute.team": "$TEAM"
+                    "saltminer.asset.attributes.team": "$TEAM"
                 }
             }
         }
